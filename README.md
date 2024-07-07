@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center">Hi there! 👋 I'm<a href="">Emanuel Astudillo</a></h1>
 </div>
-<img src="/banner_logoema.png">
+<div align="center">
+  <img src="/banner_logoema.png">
+</div>
+
 
 <h2>About me</h2>
 
@@ -19,6 +22,11 @@
 <img class="mx-2" alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img class="mx-2" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img class="mx-2" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img class="mx-2" alt="GIT" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img class="mx-2" alt="GIT" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img class="mx-2" alt="GIT" src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img class="mx-2" alt="GIT" src="https://img.shields.io/badge/Affter_Efects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+
 </div>
 <br>
 <h2>📫 Connect with Me!</h2>
