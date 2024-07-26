@@ -31,6 +31,6 @@
 <br>
 <h2>📫 Connect with Me!</h2>
 
-- **Email:** [astudillo.emanuel@example.com](mailto:emanuel.astudillo@gmail.com)
+- **Email:** [astudillo.emanuel@gmail.com](mailto:emanuel.astudillo@gmail.com)
 - **LinkedIn:** [linkedin.com/in/emanuel-astudillo-quiroz/](https://linkedin.com/in/emanuel-astudillo-quiroz/)
 
