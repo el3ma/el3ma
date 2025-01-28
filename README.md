@@ -34,3 +34,5 @@
 - **Email:** [astudillo.emanuel@gmail.com](mailto:emanuel.astudillo@gmail.com)
 - **LinkedIn:** [linkedin.com/in/emanuel-astudillo-quiroz/](https://linkedin.com/in/emanuel-astudillo-quiroz/)
 
+
+[![roadmap.sh](https://roadmap.sh/card/tall/679966bb1ee9a7b2d0bb2d01?variant=dark&roadmaps=frontend)](https://roadmap.sh)
