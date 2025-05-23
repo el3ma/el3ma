@@ -2,6 +2,11 @@
 # Hola a todos! 👋 Soy Emanuel Astudillo
 
 Como desarrollador front-end y diseñador UX/UI, me impulsa la creación de experiencias web altamente interactivas y eficientes. Me especializo en el ecosistema Vue.js, utilizando herramientas como Vuex para la gestión de estados y Vue Router para la navegación. Constantemente busco aprender y aplicar nuevas habilidades, siempre con el objetivo de desarrollar código limpio, escalable y mantenible.
+[![Static Badge](https://img.shields.io/badge/Emanuel%20Astudillo-white?style=social&logo=gmail)](mailto:emanuel.astudillo@gmail.com)
+
+
+- **Email:** [astudillo.emanuel@gmail.com](mailto:emanuel.astudillo@gmail.com)
+- **LinkedIn:** [linkedin.com/in/emanuel-astudillo-quiroz/](https://linkedin.com/in/emanuel-astudillo-quiroz/)
 
 ![Static Badge](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -18,13 +23,10 @@ Como desarrollador front-end y diseñador UX/UI, me impulsa la creación de expe
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=el3ma&theme=dark&locale=es)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el3ma&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el3ma&layout=compact&theme=dark)
 
 
 
 
-- **Email:** [astudillo.emanuel@gmail.com](mailto:emanuel.astudillo@gmail.com)
-- **LinkedIn:** [linkedin.com/in/emanuel-astudillo-quiroz/](https://linkedin.com/in/emanuel-astudillo-quiroz/)
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/679966bb1ee9a7b2d0bb2d01?variant=dark&roadmaps=frontend)](https://roadmap.sh)
